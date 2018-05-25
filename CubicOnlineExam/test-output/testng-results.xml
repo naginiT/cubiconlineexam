@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="667276" started-at="2018-05-25T14:59:50Z" finished-at="2018-05-25T15:10:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="667276" started-at="2018-05-25T14:59:50Z" finished-at="2018-05-25T15:10:57Z">
+      <class name="Execution.Execute">
+        <test-method status="PASS" signature="exe()[pri:0, instance:Execution.Execute@4c70fda8]" name="exe" duration-ms="667246" started-at="2018-05-25T14:59:50Z" finished-at="2018-05-25T15:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exe -->
+      </class> <!-- Execution.Execute -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
